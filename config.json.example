@@ -1,0 +1,7 @@
+{
+  "ServerUrl": "tcp://server:port",
+  "EventTopicName": "iot-events",
+  "HeartbeatTopicName": "iot-heartbeat",
+  "DeviceId": "rasp-001",
+  "HeartbeatFrequencySeconds": 30
+}
